@@ -1,4 +1,4 @@
-# IT-Books-Library
+# 计算机PDF书籍高速下载
 ![技术资源集合封面](https://raw.githubusercontent.com/dunx666/IT-Books-Library/refs/heads/main/%E5%B0%81%E9%9D%A2.png)
 
 
